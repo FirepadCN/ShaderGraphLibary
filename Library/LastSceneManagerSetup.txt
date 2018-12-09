@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/09BloodPot/09BloodPot.unity
+  isLoaded: 1
+  isActive: 1
